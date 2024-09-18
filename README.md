@@ -33,6 +33,18 @@ I’m always exploring new technologies and techniques to create more engaging a
 
 ---
 
+## 🗂️ Featured Projects
+
+### 🎮 Project 1: [Project Name](https://your-project-link.com)
+**Description**: A brief overview of the project, what technologies were used, and what the project aims to accomplish. Include features that stand out.
+
+---
+
+### 🎮 Project 2: [Project Name](https://your-project-link.com)
+**Description**: Another brief overview of a different project. Focus on the mechanics, design, or other unique aspects that make it special.
+
+---
+
 ## 💻 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/naveen-kumar-b72aa3301) 
 - [Gmail](naveescreation@gmail.com) 
