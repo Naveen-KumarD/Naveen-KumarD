@@ -1,6 +1,6 @@
 # Hi there, I'm Naveen Kumar! 👋
 
-![Naveen's Banner](https://your-gif-or-image-url.com) <!-- Add your own GIF or image here -->
+![Naveen's Banner](https://ibb.co/nr8JJws) <!-- Add your own GIF or image here -->
 
 ## 🚀 About Me
 I'm **Naveen Kumar**, a passionate **Unity Developer** with a wide range of skills in game development , 3D modeling, 2D animation and design. I specialize in creating immersive and complex game mechanics that captivate players. My skills include:
