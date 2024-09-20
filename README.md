@@ -52,7 +52,7 @@ I’m always exploring new technologies and techniques to create more engaging a
 
 
 ## 💻 Connect With Me
-- [LinkedIn](www.linkedin.com/in/naveen-kumar-b72aa3301) 
+- [LinkedIn](https://www.linkedin.com/in/naveen-kumar-b72aa3301)
 - [Gmail](naveescreation@gmail.com) 
 - [Portfolio](https://yourportfolio.com)
 
