@@ -35,18 +35,24 @@ I’m always exploring new technologies and techniques to create more engaging a
 
 ## 🗂️ Featured Projects
 
-### 🎮 Project 1: [Project Name](https://your-project-link.com)
-**Description**: A brief overview of the project, what technologies were used, and what the project aims to accomplish. Include features that stand out.
+### 🎮 Project 1: [PIXELQUEST](https://your-project-link.com)
+**Description**:It features a witchcore aesthetic theme. The player will face various obstacles such as blades, invisible paths, and magical creatures. To succeed, the player must avoid being caught by these obstacles and reach the destination.
 
 ---
 
-### 🎮 Project 2: [Project Name](https://your-project-link.com)
-**Description**: Another brief overview of a different project. Focus on the mechanics, design, or other unique aspects that make it special.
+### 🎮 Project 2: [ASTRO ESCAPE(3D Openworld)](https://your-project-link.com)
+**Description**: In a floating city, a secret lab is conducting illegal experiments, turning humans into indestructible guards and selling them on the black market. In this action-packed sci-fi open-world game, you play as a skilled operative tasked with infiltrating the lab, avoiding detection by security guards and flying robots, and ultimately destroying the lab to halt its nefarious activities. Navigate through a dynamic cityscape filled with high-tech threats and obstacles, utilize teleport points for strategic advantages, and battle against a variety of enemies to complete your mission. The game challenges players with stealth, combat, and strategic exploration while uncovering a gripping narrative about rebellion and survival in a futuristic world.
 
 ---
+
+### 🎮 Project 3: [ASTRO ESCAPE(Endless)](https://your-project-link.com)
+**Description**:Test your reflexes and strategy in Astro Escape: Endless, a fast-paced action game where survival depends on your ability to adapt in an infinite galaxy.
+
+---
+
 
 ## 💻 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/naveen-kumar-b72aa3301) 
+- [LinkedIn](www.linkedin.com/in/naveen-kumar-b72aa3301) 
 - [Gmail](naveescreation@gmail.com) 
 - [Portfolio](https://yourportfolio.com)
 
