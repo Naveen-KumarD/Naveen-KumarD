@@ -58,7 +58,7 @@ I’m always exploring new technologies and techniques to create more engaging a
 - [LinkedIn](https://www.linkedin.com/in/naveen-kumar-b72aa3301)
 - [Gmail](mailto:naveescreation@gmail.com) 
 - [Portfolio](https://pdflink.to/78afe55c/)
-
+- [Website](https://priyadharshini-nagarajan.my.canva.site/game-developer-resume-website-in-blue-bright-green-friendly-rounded-style)
 ---
 
 ![Naveen's Work](https://pdflink.to/78afe55c/) <!-- Add a GIF or image of your work -->
